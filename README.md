@@ -20,6 +20,10 @@ Make sure you have:
 
 Replace those inside script and you're all set.
 
+These are important and you should change them to your own:
+![image](https://user-images.githubusercontent.com/26422126/117193599-59296a80-ade3-11eb-8175-39117bf06810.png)
+
+
 Our template in Gdocs looks like this:
 
 ![image](https://user-images.githubusercontent.com/26422126/117193445-28493580-ade3-11eb-8913-513cd0505b63.png)
