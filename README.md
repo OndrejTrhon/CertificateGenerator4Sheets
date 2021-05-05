@@ -21,6 +21,7 @@ Make sure you have:
 Replace those inside script and you're all set.
 
 Our template in Gdocs looks like this:
+
 ![image](https://user-images.githubusercontent.com/26422126/117193445-28493580-ade3-11eb-8913-513cd0505b63.png)
 
 As you're at Github it all should be pretty clear but perhaps shoot some question and we might answer! 
