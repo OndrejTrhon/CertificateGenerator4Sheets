@@ -24,7 +24,8 @@ Make sure you have:
 Replace those inside script and you're all set.
 
 These are important and you should change them to your own:
-![image](https://user-images.githubusercontent.com/26422126/117193654-6ba3a400-ade3-11eb-9b5f-3fb052de2c9b.png)
+![image](https://user-images.githubusercontent.com/26422126/117194332-43687500-ade4-11eb-899f-b4e06b430438.png)
+
 
 
 Our template in Gdocs looks like this:
