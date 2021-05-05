@@ -1,4 +1,7 @@
 # CertificateGenerator4Sheets
+
+_Generate PDFs from simple google sheet tables!_
+
 Made for work from various scraps and help of @randalfien, takes in data from google sheets and generates pdf
 Built on the fundamentals laid by: https://medium.com/swlh/create-pdf-using-googleapps-script-6d974f3f06c4
 Vastly helped by @Randalfien (collaborator in this project yay)
